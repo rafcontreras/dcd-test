@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Test for David Clark Designs",
   "main": "index.js",
-  "repository": "git@github.com:rafcontreras/dcTest.git",
-  "author": "Rafael Contreras <rafael.contreras@cashconverters.co.nz>",
+  "repository": "git@github.com:rafcontreras/dcd-test.git",
+  "author": "Rafael Contreras <raf@contrer.as>",
   "license": "CC0",
   "private": true,
   "scripts": {
