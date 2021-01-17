@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "title": "Coke",
+      "itemId": "33067b41-6a62-4bea-9af9-05cf949ceb09",
+      "completed": false
+    },
+    {
+      "title": "Sprite",
+      "itemId": "c796a223-a45f-48d4-9bc7-c62b70154a76",
+      "completed": false
+    }
+  ]
+}
